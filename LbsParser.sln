@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LbsParser", "LbsParser.csproj", "{32F23E41-0C03-4B97-9904-15E62A21F6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F23E41-0C03-4B97-9904-15E62A21F6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F23E41-0C03-4B97-9904-15E62A21F6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F23E41-0C03-4B97-9904-15E62A21F6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F23E41-0C03-4B97-9904-15E62A21F6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3448190-6F38-44A7-8C52-CA2DC5467713}
+	EndGlobalSection
+EndGlobal
